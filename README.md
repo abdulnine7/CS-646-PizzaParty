@@ -1,1 +1,2 @@
-# CS-646-PizzaParty
+# The Pizza Party app
+ 

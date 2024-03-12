@@ -3,6 +3,16 @@
     <style name="Base.Theme.PizzaParty" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!--<item name="colorPrimary">@color/my_green</item>-->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#9C27B0</item>
+        <item name="colorPrimaryVariant">#44AEDE</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF03DAC5</item>
+        <item name="colorSecondaryVariant">#FF018786</item>
+        <item name="colorOnSecondary">@color/black</item>
     </style>
 
     <style name="Theme.PizzaParty" parent="Base.Theme.PizzaParty" />
